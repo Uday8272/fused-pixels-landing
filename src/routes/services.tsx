@@ -34,7 +34,7 @@ const services = [
       "Type pairing and layout rules",
       "A brand guide your team can actually use",
     ],
-    timing: "420136 weeks",
+    timing: "4–6 weeks",
   },
   {
     index: "02",
